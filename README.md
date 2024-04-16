@@ -11,7 +11,7 @@
   </a>
 </div>
 </div>
-### :woman_technologist: About Me :
+### :man_technologist:About Me :
 
 Here are some ideas to get you started:
 
