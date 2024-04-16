@@ -43,3 +43,9 @@ Here are some technologies I work with:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+## 📫 Get in Touch
+
+Feel free to reach out to me via [email](mailto:tarunjawla2@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarunjawlajaipur)!
+
+Let's connect and build amazing things together! 🚀
+
