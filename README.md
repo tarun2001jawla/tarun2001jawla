@@ -1,28 +1,53 @@
-# 👋 Hey! Nice to see you.
-## Welcome to my page!
-Hi, I am Tarun a passionate self-taught frontend developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+# 👨‍💻 Welcome to My Profile! 👋
 
+Hey there! I'm [Your Name], a passionate full stack developer based on the planet Earth 🌍. I love coding, building cool stuff, and exploring the latest technologies.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQweXNvYnhycWozeHc0N2N3enRyaDBmOW53cjFtMThjMTNiMzNuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/tarunjawlajaipur/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>
-## :man_technologist:About Me :
+## 🚀 About Me
 
+- 💼 Full Stack Developer
+- 🎓 Computer Science Graduate
+- 🌱 Always learning and exploring new technologies
+- 📚 Open source contributor
 
+## 🛠️ Tech Stack
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working on MERN Stack.
+Here are some technologies I work with:
 
-- :seedling: Exploring Technical Content Writing.
+- Frontend: 
+  - React
+  - TypeScript
+  - Redux
+  - GraphQL
+  - Sass
+  - Styled Components
+  - Angular
+  - HTML5
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- Backend: 
+  - Node.js
+  - NestJS
+  
+- Tools & Platforms:
+  - Webpack
+  - Docker
+  - GitHub Actions
+  - Google Cloud Platform
+  - Insomnia
+  - Apollo
+  - Heroku
+  - git
+  - npm
+  - Brave Browser
+  
+- Others:
+  - ReactiveX
+  - Rollup
+  - d3.js
+  - Prettier
+  - MongoDB
+  
+## 📫 Get in Touch
 
-- :mailbox:How to reach me: 
+Feel free to reach out to me via [email](mailto:tarunjawla2@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarunjawlajaipur)!
+
+Let's connect and build amazing things together! 🚀
