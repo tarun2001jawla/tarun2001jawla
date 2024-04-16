@@ -43,9 +43,13 @@ Here are some technologies I work with:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📫 Get in Touch
+## Connect with me
 
-Feel free to reach out to me via [email](mailto:tarunjawla2@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tarunjawlajaipur)!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/tarunjawlajaipur/)
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:tarunjawla2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/tarun_jawla/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/tarun_jawla)
+
 
 Let's connect and build amazing things together! 🚀
 
