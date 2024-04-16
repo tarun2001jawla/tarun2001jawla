@@ -1,4 +1,6 @@
 # 👋 Hey! Nice to see you.
+## Welcome to my page!
+I'm Tarun, Fullstack developer from  Jaipur, India.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQweXNvYnhycWozeHc0N2N3enRyaDBmOW53cjFtMThjMTNiMzNuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
@@ -22,4 +24,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: (https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarunjawlajaipur/)
+- :mailbox:How to reach me: 
