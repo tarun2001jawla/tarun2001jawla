@@ -1,6 +1,7 @@
 # 👋 Hey! Nice to see you.
 ## Welcome to my page!
-I'm Tarun, Fullstack developer from  Jaipur, India.
+Hi, I am Tarun a passionate self-taught frontend developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnQweXNvYnhycWozeHc0N2N3enRyaDBmOW53cjFtMThjMTNiMzNuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
