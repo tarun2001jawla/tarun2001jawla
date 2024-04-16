@@ -55,6 +55,7 @@ Here are some technologies I work with:
 Let's connect and build amazing things together! 🚀
 
 
-[![](https://raw.githubusercontent.com/tarun2001jawla/tarun2001jawla/main/profile-summary-card-output/default/0-profile-details.svg)](https://profile-summary-for-github.com/user/tarun2001jawla)
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&theme=react-dark)](https://github.com/tarun2001jawla/github-readme-activity-graph)
+
 
 
