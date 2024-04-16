@@ -4,10 +4,10 @@ Hey there! I'm Tarun, a passionate full stack developer based on the planet Eart
 
 ## 🚀 About Me
 
-💼 Full Stack Developer
-🎓 Information Technology Graduate
-🌱 Always learning and exploring new technologies
-📚 Open source contributor
+- 💼 Full Stack Developer
+- 🎓 Information Technology Graduate
+- 🌱 Always learning and exploring new technologies
+- 📚 Open source contributor
 
 ## 🛠️ Tech Stack
 
