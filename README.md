@@ -43,6 +43,15 @@ Here are some technologies I work with:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+
+
+
+
+
+
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&theme=react-dark)](https://github.com/tarun2001jawla/github-readme-activity-graph)
+
+
 ## Connect with me
 
 
@@ -53,9 +62,4 @@ Here are some technologies I work with:
 
 
 Let's connect and build amazing things together! 🚀
-
-
-[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&theme=react-dark)](https://github.com/tarun2001jawla/github-readme-activity-graph)
-
-
 
