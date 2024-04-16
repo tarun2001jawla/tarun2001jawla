@@ -13,7 +13,7 @@
 </div>
 ### :man_technologist:About Me :
 
-Here are some ideas to get you started:
+
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working on MERN Stack.
