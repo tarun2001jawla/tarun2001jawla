@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, Fellow Devs 👋
+![Header](./github-header-image.png)
 
 Hey there! I'm Tarun, a passionate full-stack developer based on the planet Earth 🌍. I love coding, building cool stuff, and exploring the latest technologies.
 
