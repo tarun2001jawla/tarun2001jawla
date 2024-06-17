@@ -74,3 +74,4 @@ I'm a passionate full-stack developer based on the planet Earth 🌍. I love cod
 </p>
 
 Let's connect and build amazing things together! 🚀
+[![](https://visitcount.itsvg.in/api?id=tarun&label=Web%20Visits&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
