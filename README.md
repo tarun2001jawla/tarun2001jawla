@@ -2,14 +2,22 @@
 
 # Hey there! I'm Tarun 👋
 
-I'm a passionate full-stack developer based on the planet Earth 🌍. I love coding, building cool stuff, and exploring the latest technologies.
+I'm a passionate full-stack developer based on planet Earth 🌍. I love coding, building cool stuff, and exploring the latest technologies.
+
+---
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer
-- 🎓 Information Technology Graduate
-- 🌱 Always learning and exploring new technologies
-- 📚 Open source contributor
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+- 💼 **Full Stack Developer**
+- 🎓 **Information Technology Graduate**
+- 🌱 **Always learning and exploring new technologies**
+- 📚 **Open source contributor**
+
+I'm driven by a passion for innovation and a desire to create meaningful projects that make a difference. Whether it's building web applications, contributing to open-source, or diving into new tech trends, I'm always up for a challenge!
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +48,8 @@ I'm a passionate full-stack developer based on the planet Earth 🌍. I love cod
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### IDEs
@@ -50,13 +60,21 @@ I'm a passionate full-stack developer based on the planet Earth 🌍. I love cod
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
+
+## 📈 GitHub Stats
+
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&theme=react-dark)](https://github.com/tarun2001jawla/github-readme-activity-graph)
+
+---
 
 ## 🌐 Website
 
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.tarunjawla.dev)
 
-## Connect with me
+---
+
+## 📫 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tarunjawlajaipur/" target="_blank">
@@ -74,4 +92,5 @@ I'm a passionate full-stack developer based on the planet Earth 🌍. I love cod
 </p>
 
 Let's connect and build amazing things together! 🚀
+
 [![](https://visitcount.itsvg.in/api?id=tarun&label=Web%20Visits&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
