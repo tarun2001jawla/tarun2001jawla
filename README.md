@@ -14,31 +14,8 @@ I'm a passionate full-stack developer based on planet Earth 🌍. I love coding,
 - 🎓 **Information Technology Graduate**
 - 🌱 **Always learning and exploring new technologies**
 - 📚 **Open source contributor**
-- 🧑‍🏫 **Mentor and Educator**
-- 🌐 **Community Builder**
 
 I'm driven by a passion for innovation and a desire to create meaningful projects that make a difference. Whether it's building web applications, contributing to open-source, or diving into new tech trends, I'm always up for a challenge!
-
----
-
-## 🌟 Featured Projects
-
-### [Project 1: CoolBook App](https://github.com/tarun2001jawla/cool-book-app)
-A modern book store web application built with React, Node.js, and PostgreSQL. Features include user authentication, book catalog, and shopping cart.
-
-- **Tech Stack:** React, Node.js, PostgreSQL, Docker, Kubernetes
-- **Highlights:** Responsive design, JWT authentication, RESTful API
-
-### [Project 2: Personal Portfolio](https://www.tarunjawla.dev)
-A personal portfolio website showcasing my projects, skills, and experience.
-
-- **Tech Stack:** HTML, CSS, JavaScript, Chakra UI
-- **Highlights:** Custom animations, SEO optimization, mobile-friendly
-
-### [Project 3: Open Source Contributions](https://github.com/tarun2001jawla)
-Contributed to various open-source projects, focusing on improving documentation, fixing bugs, and adding new features.
-
-- **Projects:** [OpenAI GPT-3](https://github.com/openai/gpt-3), [React](https://github.com/facebook/react)
 
 ---
 
@@ -85,29 +62,11 @@ Contributed to various open-source projects, focusing on improving documentation
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Top Contributor:** Open Source Hackathon 2023
-- 🚀 **100+ Stars:** On GitHub repositories
-- 🎖️ **Certified:** Java, Python, and SQL
-- 💻 **Internship:** Cognizant - Specializing in Java, SQL, and Web Development
-
----
-
-## 🎨 Hobbies & Interests
-
-- 📚 **Reading:** Technology and science fiction books
-- 🎮 **Gaming:** RPG and strategy games
-- 🌲 **Outdoors:** Hiking and nature photography
-- 🎵 **Music:** Playing guitar and exploring new genres
-
----
-
 ## 📈 GitHub Stats
 
 [![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&theme=react-dark)](https://github.com/tarun2001jawla/github-readme-activity-graph)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun2001jawla&layout=compact&theme=react)](https://github.com/tarun2001jawla)
+
 
 ---
 
