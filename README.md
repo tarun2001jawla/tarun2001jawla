@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tarunjawla.dev"><img src="https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
+  <a href="https://www.tarunjawla.dev"><img src="https://img.shields.io/badge/-My%20Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/tarunjawlajaipur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tarunjawla2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/tarun_jawla/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -108,13 +108,13 @@
 
 ---
 
-<h2 align="center">📚 Latest Blog Posts</h2>
+<h2 align="center">🌐 My Website</h2>
 
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a RESTful API with Node.js and Express](https://www.tarunjawla.dev/blog/build-restful-api-nodejs-express)
-- [5 Essential Tools for Every Full-Stack Developer](https://www.tarunjawla.dev/blog/essential-tools-full-stack-developer)
-- [Understanding Microservices Architecture](https://www.tarunjawla.dev/blog/understanding-microservices-architecture)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <a href="https://www.tarunjawla.dev">
+    <img src="https://img.shields.io/badge/-Check%20out%20my%20website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Tarun's Website" />
+  </a>
+</p>
 
 ---
 
