@@ -1,8 +1,12 @@
 ![Header](./header.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=f72585&background=0d1117&width=500" alt="Typing SVG" />
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=f72585&background=0d1117&width=500" alt="Typing SVG" />
+  </span>
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-left: 10px;"/>
+  </span>
 </h1>
 
 <p align="center">
