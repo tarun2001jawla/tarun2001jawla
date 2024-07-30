@@ -1,7 +1,8 @@
 ![Header](./header.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=35&color=f72585&background=0d1117&width=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=f72585&background=0d1117&width=600" alt="Typing SVG" />
+
 </h1>
 
 <p align="center">
@@ -88,9 +89,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=radical&background=0D1117&ring=F72585&fire=4CC9F0&currStreakLabel=4361EE" alt="Tarun's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true" alt="Tarun's GitHub Activity Graph" />
-</p>
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=4CC9F0&line=F72585&point=FFFFFF&area=true&hide_border=true)](https://github.com/tarun2001jawla/github-readme-activity-graph)
 
 ---
 
