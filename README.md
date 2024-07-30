@@ -1,7 +1,8 @@
 ![Header](./header.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=f72585&background=0d1117&width=500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=f72585&background=0d1117&width=600" alt="Typing SVG" />
+
 </h1>
 
 <p align="center">
