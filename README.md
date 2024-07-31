@@ -19,21 +19,27 @@
 
 ---
 
+---
+
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me" />
+  &nbsp; About Me
 </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72585&center=true&vCenter=true&width=435&lines=%22The+only+way+to+do+great+work;is+to+love+what+you+do.%22;-+Steve+Jobs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  I'm a full-stack developer based on planet Earth 🌍, passionate about coding, building cool stuff, and exploring the latest technologies. My journey in tech is driven by a love for innovation and a desire to create meaningful projects that make a difference.
+<p align="center" style="font-size: 18px; line-height: 1.6; max-width: 800px;">
+  Hi there! I'm a passionate <strong>Full-Stack Developer</strong> based on planet Earth 🌍. My journey in technology is driven by a deep love for innovation and a desire to create meaningful projects that make a real impact. Whether it's coding, building cool stuff, or exploring the latest tech trends, I’m always excited about new challenges!
 </p>
 
-<p align="center">
-  🎓 Information Technology Graduate | 💼 Full Stack Developer | 🌱 Lifelong Learner | 📚 Open Source Contributor
+<p align="center" style="font-size: 16px; line-height: 1.6; max-width: 800px;">
+  🎓 <strong>Information Technology Graduate</strong> | 💼 <strong>Full Stack Developer</strong> | 🌱 <strong>Lifelong Learner</strong> | 📚 <strong>Open Source Contributor</strong>
 </p>
+
+---
+
 
 ---
 
