@@ -131,10 +131,10 @@
 
 <h2 align="center">🎉 Fun Facts</h2>
 
-<p align="center">
-  🎸 I play guitar in my free time<br>
-  🍳 I'm an amateur chef and love experimenting with new recipes<br>
-  🏃‍♂️ I enjoy running and have completed two half-marathons
+<p align="center" style="font-size: 16px; line-height: 1.6; max-width: 800px;">
+  📚 I love reading books and diving into different worlds and perspectives.<br>
+  💹 I'm interested in finance and enjoy staying updated on market trends and investment strategies.<br>
+  🍳 Cooking is a passion of mine; I love experimenting with new recipes and flavors.
 </p>
 
 ---
