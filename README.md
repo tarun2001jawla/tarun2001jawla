@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/6sYRMv5c0R0elg5qS2/giphy.gif" width="100%" height="300" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="300" alt="Coding Animation">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=58a6ff&background=00000000&width=600" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=58a6ff&background=00000000&width=600" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tarunjawla.dev"><img src="https://img.shields.io/badge/-Visit%20My%20Website-58a6ff?style=for-the-badge&logo=web&logoColor=white" alt="Website"></a>
+  <a href="https://www.tarunjawla.dev"><img src="https://img.shields.io/badge/-My%20Website-58a6ff?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/tarunjawlajaipur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:tarunjawla2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.instagram.com/tarun_jawla/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -21,11 +21,11 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3o72Fmk7PbE4S6RCOc/giphy.gif" width="30px" alt="About Me" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me" />
   About Me
 </h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/4T1ZRs8xE6hAE/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 
 <p align="center">
   <a href="https://www.tarunjawla.dev">
-    <img src="https://img.shields.io/badge/-Check%20out%20my%20website-58a6ff?style=for-the-badge&logo=web&logoColor=white" alt="Tarun's Website" />
+    <img src="https://img.shields.io/badge/-Check%20out%20my%20website-58a6ff?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Tarun's Website" />
   </a>
 </p>
 
