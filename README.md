@@ -42,24 +42,24 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,vue,express,spring,nestjs,mongodb,mysql,postgresql,aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="Tech Stack" width="90%">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vue,angular&theme=dark" alt="Frontend Skills">
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,php,python,java&theme=dark" alt="Backend Skills">
+  
+  <h3>Databases</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Database Skills">
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab&theme=dark" alt="DevOps Skills">
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,figma&theme=dark" alt="Tool Skills">
 </div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="Tarun's GitHub Activity Graph" width="90%" />
-</p>
 
 ---
 
