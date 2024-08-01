@@ -18,11 +18,12 @@
   <a href="https://twitter.com/tarun_jawla"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
+---
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="About Me" />
   About Me
 </h2>
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
@@ -39,44 +40,36 @@
   🎓 <strong style="color: #58a6ff;">Information Technology Graduate</strong> | 💼 <strong style="color: #58a6ff;">Full Stack Developer</strong> | 🌱 <strong style="color: #58a6ff;">Lifelong Learner</strong> | 📚 <strong style="color: #58a6ff;">Open Source Contributor</strong>
 </p>
 
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Languages">
-  
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="Frontend">
-  
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs&theme=dark" alt="Backend">
-  
-  <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="Databases">
-  
-  <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=dark" alt="DevOps & Cloud">
-  
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,vue,express,spring,nestjs,mongodb,mysql,postgresql,aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="Tech Stack" width="90%">
 </div>
+
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" width="49%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="Tarun's GitHub Activity Graph" width="95%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="Tarun's GitHub Activity Graph" width="90%" />
+</p>
+
+---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" width="90%" />
 </p>
+
+---
 
 <h2 align="center">🎯 Current Focus</h2>
 
@@ -88,6 +81,8 @@
   💬 Ask me about full-stack development, RESTful APIs, and database design
 </p>
 
+---
+
 <h2 align="center">🌐 My Website</h2>
 
 <p align="center">
@@ -96,6 +91,8 @@
   </a>
 </p>
 
+---
+
 <h2 align="center">🎉 Fun Facts</h2>
 
 <p align="center" style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #0d1117; border-radius: 10px; box-shadow: 0 0 10px rgba(88, 166, 255, 0.1);">
@@ -103,6 +100,8 @@
   💹 I'm interested in finance and enjoy staying updated on market trends and investment strategies.<br>
   🍳 Cooking is a passion of mine; I love experimenting with new recipes and flavors.
 </p>
+
+---
 
 <p align="center">
   <em>Let's connect and build amazing things together! 🚀</em>
