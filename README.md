@@ -45,7 +45,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,typescript,react,nodejs,vue,express,spring,nestjs,mongodb,mysql,postgresql,aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,vue,express,spring,nestjs,mongodb,mysql,postgresql,aws,gcp,docker,kubernetes,linux,git&theme=dark" alt="Tech Stack" width="90%">
 </div>
 
 ---
@@ -53,21 +53,20 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" alt="Tarun's GitHub Activity Graph" width="90%" />
 </p>
-
-[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true)](https://github.com/tarun2001jawla/github-readme-activity-graph)
 
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" width="90%" />
 </p>
 
 ---
@@ -111,4 +110,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarun2001jawla&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
 </p>
-
