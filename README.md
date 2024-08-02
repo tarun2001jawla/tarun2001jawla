@@ -63,10 +63,29 @@
 
 ---
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarun2001jawla&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF&icon_color=58a6ff" alt="Tarun's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun2001jawla&theme=github-dark-blue&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Tarun's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun2001jawla&layout=compact&theme=github_dark&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarun2001jawla&theme=github_dark" alt="Tarun's GitHub Stats Summary" width="100%" />
+</div>
+
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarun2001jawla&bg_color=0D1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tarun2001jawla&theme=darkhub&no-frame=true&row=1&column=7&bg_color=0D1117&title_color=58a6ff&text_color=FFFFFF" alt="Tarun's GitHub Trophies" width="100%" />
 </p>
 
 ---
