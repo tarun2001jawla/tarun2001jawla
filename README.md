@@ -120,7 +120,7 @@
   🍳 Cooking is a passion of mine; I love experimenting with new recipes and flavors.
 </p>
 
-<a href="https://app.daily.dev/tarunjawla"><img src="https://api.daily.dev/devcards/v2/NgClGM8nILutc4RLJi6RW.png?type=default&r=gbe" width="356" alt="Tarun Jawla's Dev Card"/></a>
+
 
 ---
 
