@@ -1,10 +1,9 @@
 ---
 
-<h2 align="center">🎨 My Custom SVG</h2>
 
-<div align="center">
-  ![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/readme.png?raw=true)
-</div>
+
+![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/readme.png?raw=true)
+
 
 ---
 >
