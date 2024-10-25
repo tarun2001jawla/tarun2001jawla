@@ -1,6 +1,13 @@
+---
+
+<h2 align="center">🎨 My Custom SVG</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%" height="300" alt="Coding Animation">
+  ![My SVG Image](https://github.com/tarun2001jawla/tarun2001jawla/blob/main/readme.png?raw=true)
 </div>
+
+---
+>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tarun+👋;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=58a6ff&background=00000000&width=600" alt="Typing SVG" />
