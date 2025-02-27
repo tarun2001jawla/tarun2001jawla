@@ -64,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab&theme=dark" alt="DevOps Skills">
   
   <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,postman,figma&theme=dark" alt="Tool Skills">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,postman,figma&theme=dark" alt="Tool Skills">
 </div>
 
 ---
